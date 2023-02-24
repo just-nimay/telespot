@@ -3,8 +3,9 @@ The telegram bot which send to user archive (or archives) with tracks from Spoti
 
 # Usage
 1. Download this repo
-2. make a venv and install libraries `pip install -r requirements.txt`
-3. Launch bot `python main_bot.py`
+2. Make a venv and install libraries `pip install -r requirements.txt`
+3. Edit `condig.py`
+4. Launch bot `python main_bot.py`
 
 ![image](https://user-images.githubusercontent.com/96590760/221211355-94fe4e24-bf16-472f-a733-bfbbc1260354.png)
 
