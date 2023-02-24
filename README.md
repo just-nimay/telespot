@@ -1,4 +1,8 @@
 # About
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96590760/221212066-f59628d6-ff28-4e06-a0cb-24bc5ecd7315.png" width=10% height=10%>
+</p>
+
 The telegram bot which send to user archive (or archives) with tracks from Spotify<br>
 
 # Usage
@@ -7,8 +11,3 @@ The telegram bot which send to user archive (or archives) with tracks from Spoti
 3. Edit `condig.py`
 4. Launch bot `python main_bot.py`
 
-![image](https://user-images.githubusercontent.com/96590760/221211355-94fe4e24-bf16-472f-a733-bfbbc1260354.png)
-
-![image](https://user-images.githubusercontent.com/96590760/221211421-1c1ccbe6-6be0-4c92-8ada-1d29f694ac97.png)
-
-![image](https://user-images.githubusercontent.com/96590760/221211441-57a4f865-9bea-42a9-ad88-46d2cf09ed54.png)
