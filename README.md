@@ -8,6 +8,6 @@ The telegram bot which send archive (or archives) with tracks from Spotify to us
 # Usage
 1. Download this repo
 2. Make a venv and install libraries `pip install -r requirements.txt`
-3. Edit `condig.py`
+3. Edit `config.py`
 4. Launch bot `python main_bot.py`
 
